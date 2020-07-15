@@ -1,0 +1,3 @@
+C:\FINAP\Indula\R&D\react-signalr-backend\react-signalr-backend\obj\Debug\netcoreapp2.0\react-signalr-backend.AssemblyInfoInputs.cache
+C:\FINAP\Indula\R&D\react-signalr-backend\react-signalr-backend\obj\Debug\netcoreapp2.0\react-signalr-backend.AssemblyInfo.cs
+C:\FINAP\Indula\R&D\react-signalr-backend\react-signalr-backend\obj\Debug\netcoreapp2.0\react-signalr-backend.csproj.CoreCompileInputs.cache
