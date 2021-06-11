@@ -1,0 +1,1 @@
+Please reffer Startup.cs -> ConfigureServices & Configure
